@@ -1,5 +1,5 @@
 # chia-address-lister
-Lists the puzzle hashes found from to_puzzle_hash in the wallet database.
+Lists the puzzle hashes of used addresses found from to_puzzle_hash in the wallet database. 
 
 Change USERNAME and CHALLENGE as needed. 
 
